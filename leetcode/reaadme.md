@@ -4,4 +4,4 @@
 ## 作業
 ### 1. Design Linked List [前往](https://leetcode.com/problems/design-linked-list/)
 
-> [我的解答]
+> [我的解答]https://github.com/Benny805038/benny/blob/master/leetcode/Design%20Linked%20List.py
