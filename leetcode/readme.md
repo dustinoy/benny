@@ -7,6 +7,8 @@
 > [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/Design%20Linked%20List.py)
 
 ### 2. Min Stack [前往](https://leetcode.com/problems/min-stack/)
+> [我的解答]
 
 ### 3. Implement Queue using Stacks  [前往](https://leetcode.com/problems/implement-queue-using-stacks/)
+> [我的解答]
 
