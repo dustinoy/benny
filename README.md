@@ -7,8 +7,5 @@
 * 就讀於: Soochow University (東吳大學)
 * 主修: 巨量資料管理學系
 
-# 課堂筆記
-> [link list]()
 
-> [stack & queue]()
 
