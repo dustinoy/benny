@@ -3,10 +3,10 @@
 
 ## 作業
 ### 1. Design Linked List 
-[leetcode連結](https://leetcode.com/problems/design-linked-list/) 
+. [leetcode連結](https://leetcode.com/problems/design-linked-list/) 
 
 ### 2. Min Stack 
-[leetcode連結](https://leetcode.com/problems/min-stack/)
+. [leetcode連結](https://leetcode.com/problems/min-stack/)
 
 ### 3. Implement Queue using Stacks  
 [leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
