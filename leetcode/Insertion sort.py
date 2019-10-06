@@ -6,9 +6,11 @@
 
 class Solution:
      def insertionSortList(self, head):
+          #把數列的第一項指定是頭
         newHead = ListNode(0)
         newHead.next = head 
-        while head and head.next:
+        while head and head.next
+            #跳過已經排序好的   
             if head.val > head.next.val:
                 nodeToInsert = head.next
                 cur = newHead
