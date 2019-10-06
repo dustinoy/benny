@@ -3,18 +3,18 @@
 
 ## 作業
 ### 1. Design Linked List 
-. [leetcode連結](https://leetcode.com/problems/design-linked-list/) 
+ [leetcode連結](https://leetcode.com/problems/design-linked-list/) 
 
 ### 2. Min Stack 
-. [leetcode連結](https://leetcode.com/problems/min-stack/)
+ [leetcode連結](https://leetcode.com/problems/min-stack/)
 
 ### 3. Implement Queue using Stacks  
-[leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
+ [leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
 
 ### 4. Set Mismatch 
-[leetcode連結](https://leetcode.com/problems/set-mismatch/)
+ [leetcode連結](https://leetcode.com/problems/set-mismatch/)
 
 ### 5. Insertion Sort List 
-[leetcode連結](https://leetcode.com/problems/insertion-sort-list/)
+ [leetcode連結](https://leetcode.com/problems/insertion-sort-list/)
 
 
