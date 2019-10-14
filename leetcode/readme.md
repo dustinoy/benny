@@ -8,7 +8,7 @@
 
 ### 2. Min Stack 
  [leetcode連結](https://leetcode.com/problems/min-stack/)
- [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack.py)
 
 ### 3. Implement Queue using Stacks  
  [leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
