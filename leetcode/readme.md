@@ -3,19 +3,23 @@
 
 ## 作業
 ### 1. Design Linked List 
- [leetcode連結](https://leetcode.com/problems/design-linked-list/) 
+ [leetcode連結](https://leetcode.com/problems/design-linked-list/)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
 ### 2. Min Stack 
- >[leetcode連結](https://leetcode.com/problems/min-stack/)
-  [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
+ [leetcode連結](https://leetcode.com/problems/min-stack/)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
 ### 3. Implement Queue using Stacks  
  [leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
 ### 4. Set Mismatch 
  [leetcode連結](https://leetcode.com/problems/set-mismatch/)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
 ### 5. Insertion Sort List 
  [leetcode連結](https://leetcode.com/problems/insertion-sort-list/)
+ [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
 
