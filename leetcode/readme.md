@@ -14,9 +14,9 @@
  [leetcode連結](https://leetcode.com/problems/implement-queue-using-stacks/)
  [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
 
-### 4. Set Mismatch 
- [leetcode連結](https://leetcode.com/problems/set-mismatch/)
- [我的解答](https://github.com/Benny805038/benny/blob/master/leetcode/min%20stack)
+### 4. Sort an Array  
+ [leetcode連結](https://leetcode.com/problems/sort-an-array/submissions/)
+ [我的解答]()
 
 ### 5. Insertion Sort List 
  [leetcode連結](https://leetcode.com/problems/insertion-sort-list/)
