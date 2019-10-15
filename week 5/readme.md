@@ -7,4 +7,5 @@
 > [老師的範例_linked-List](https://github.com/pecu/DSA/blob/master/05_QuickSort/QuickSort_LinkedList.py)
 
 > [我的功課_Quick Sort](https://nbviewer.jupyter.org/github/Benny805038/benny/blob/master/week%205/Quick%20Sort.ipynb)
+ps
 
