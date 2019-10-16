@@ -14,6 +14,6 @@
 ### 解題過程：
 >卡比較久的地方是要如何重複選擇pivot值與分類的動作
   ![]()
-> [我的功課(成功案例)_Quick Sort](https://nbviewer.jupyter.org/github/Benny805038/benny/blob/master/leetcode/Insertion%20Sort2.ipynb)  
+#> [我的功課(成功案例)_Quick Sort](https://nbviewer.jupyter.org/github/Benny805038/benny/blob/master/leetcode/Insertion%20Sort2.ipynb)  
   * 流程圖
   ![]()
