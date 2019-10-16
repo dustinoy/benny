@@ -5,7 +5,7 @@
 # About me
 * 我的姓名:鄒孟修(Benny)
 # 作業
-* [第一次功課 10/18](https://github.com/Benny805038/benny/tree/master/week%205)
+* [第一次作業 10/18](https://github.com/Benny805038/benny/tree/master/week%205)
 
 
 
